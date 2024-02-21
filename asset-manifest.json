@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.421867f4.css",
-    "main.js": "/myPortfolio/static/js/main.10848d4c.js",
+    "main.js": "/myPortfolio/static/js/main.c5f501b7.js",
     "static/media/soorme.png": "/myPortfolio/static/media/soorme.9ffe81f139b43bd55573.png",
     "static/media/gaminggeeks-logo.png": "/myPortfolio/static/media/gaminggeeks-logo.950766930994ce13de0b.png",
     "static/media/profile.png": "/myPortfolio/static/media/profile.fab83c12f0561cb0586e.png",
     "static/media/nitj.png": "/myPortfolio/static/media/nitj.51d10f22a9290a077db9.png",
     "static/media/asm.png": "/myPortfolio/static/media/asm.5ea6deb406860dc229cb.png",
     "static/media/msp.png": "/myPortfolio/static/media/msp.e4aa666cc416231c6311.png",
-    "static/media/Resume - Sahib Singh.pdf": "/myPortfolio/static/media/Resume - Sahib Singh.38bef9bbf07e7c3215a0.pdf",
+    "static/media/Farhan's Resume.pdf": "/myPortfolio/static/media/Farhan's Resume.7a0148678a411e0fb279.pdf",
     "static/media/soorme-logo.png": "/myPortfolio/static/media/soorme-logo.01da9affe66b2c2877b2.png",
     "static/media/url-shortner.png": "/myPortfolio/static/media/url-shortner.0e6cdf04a000f799c7eb.png",
     "static/media/backend2.png": "/myPortfolio/static/media/backend2.1fc76bbdd699ed245271.png",
@@ -17,10 +17,10 @@
     "static/media/social-media.png": "/myPortfolio/static/media/social-media.a06f5dc6ee94863ace5f.png",
     "index.html": "/myPortfolio/index.html",
     "main.421867f4.css.map": "/myPortfolio/static/css/main.421867f4.css.map",
-    "main.10848d4c.js.map": "/myPortfolio/static/js/main.10848d4c.js.map"
+    "main.c5f501b7.js.map": "/myPortfolio/static/js/main.c5f501b7.js.map"
   },
   "entrypoints": [
     "static/css/main.421867f4.css",
-    "static/js/main.10848d4c.js"
+    "static/js/main.c5f501b7.js"
   ]
 }
