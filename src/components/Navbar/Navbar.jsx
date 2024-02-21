@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import "./Navbar.scss";
 import Button from "@cred/neopop-web/lib/components/Button";
-import resume from "../../assets/resume/Resume - Sahib Singh.pdf";
+import resume from "../../assets/resume/Farhan's Resume.pdf";
 
 const Navbar = () => {
   const [isOver, setIsOver] = useState(false);
