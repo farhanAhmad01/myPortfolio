@@ -78,19 +78,13 @@ const skill = [
 const experience = [
     {
         key:3,
-        duration: "July 2022 - Present",
+        duration: "Jan 2023 - Dec 2023",
         position: "React Developer",
         company: "Venturenox"
     },
     {
-        key:2,
-        duration: "Jan 2021 - May 2022",
-        position: "Software engineer",
-        company: "Unitrix Solution"
-    },
-    {
         key: 1,
-        duration: "Oct 2021 - Present",
+        duration: "Oct 2022 - Jan 2023",
         position: "Frontend Developer",
         company: "Fiverr"
     }

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Skills.scss";
 import Button from "@cred/neopop-web/lib/components/Button";
-import resume from "../../assets/resume/Farhan's Resume.pdf";
+import resume from "../../assets/resume/Farhan React Developer 1.pdf";
 
 import skills from "../../data/skillsExperience";
 
