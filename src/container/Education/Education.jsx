@@ -31,8 +31,8 @@ const Education = () => {
                           <div>
                             <h3 className="ins__name">{item.name}</h3>
                             <p className="ins__duration">{item.duration}</p>
-                            <h4 className="ins__edu">{item.education}</h4>
                             <h5 className="ins__deg">{item.degree}</h5>
+                            <h4 className="ins__edu">{item.education}</h4>
                           </div>
                         </div>
                       </div>

@@ -3,7 +3,7 @@ const education = [
     key: 1,
     img: "https://upload.wikimedia.org/wikipedia/commons/4/4e/VU_Logo.png",
     name: "Virtual University Of Pakistan",
-    duration: "2018 - 2022",
+    duration: "2020 - 2024",
     education: "Computer Science",
     degree: "Bachelor of Science",
   },

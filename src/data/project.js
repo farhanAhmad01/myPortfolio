@@ -1,6 +1,28 @@
 const project = [
   {
     key: 1,
+    img: "https://raw.githubusercontent.com/farhanAhmad01/img/main/Screenshot%20(14).png?token=GHSAT0AAAAAACT7SDHVMYPZPWOUXZDWNMOGZTYTKCQ",
+    name: "Doctor planet",
+    description:
+      "Developed a Doctor Planet app that displays appointment times for patients and shows doctor availability. It provides various patient services and lists doctors for different diseases, making it easy for users to find the appropriate healthcare provider. The app streamlines the process of scheduling appointments and accessing medical services.",
+    techStack: ["React", "MUI", "Tailwind", "Redux Toolkit", "Router","Firebase","MUCH MORE"],
+    complete: true,
+    liveDeploy: "https://doctors-planet.netlify.app/",
+    sourceCode: "https://github.com/farhanAhmad01",
+  },
+  {
+    key: 1,
+    img: "https://raw.githubusercontent.com/farhanAhmad01/img/main/megamart.png?token=GHSAT0AAAAAACT7SDHVRVO3ZWUDCMIJSRK2ZTYTJXA",
+    name: "Mega Mart",
+    description:
+      "Developed a fully functional Ecommerce store featuring separate categories for male and female products, offering a convenient shopping experience. Implemented category segregation to streamline browsing, utilized React Router for smooth navigation, integrated React Skeleton for enhanced user experience with loading placeholders, and incorporated React Toastify for user-friendly notifications during the shopping process.",
+    techStack: ["React", "MUI", "Tailwind", "Redux Toolkit", "Router","Firebase","MUCH MORE"],
+    complete: true,
+    liveDeploy: "https://doctors-planet.netlify.app/",
+    sourceCode: "https://github.com/farhanAhmad01",
+  },
+  {
+    key: 1,
     img: "https://fusetheme.com/static/assets/react/dashboards-project.png",
     name: "Fuse theme",
     description:

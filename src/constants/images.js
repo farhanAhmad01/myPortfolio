@@ -1,5 +1,5 @@
 // Profile
-import profile from '../assets/profile.png';
+// import profile from '../assets/profile.png';
 
 // About
 import nitj from '../assets/nitj.png';
@@ -26,5 +26,5 @@ import mspLogo from '../assets/education/msp.png';
 
 
 export default {
-    profile, backend, frontend, nitj, gaminggeeks, soorme, youtube, soormeLogo, urlShortner, socialmedia, googleForms, portfolioGen, nitjLogo, asmLogo, mspLogo
+     backend, frontend, nitj, gaminggeeks, soorme, youtube, soormeLogo, urlShortner, socialmedia, googleForms, portfolioGen, nitjLogo, asmLogo, mspLogo
 }
