@@ -11,7 +11,13 @@ import {
 import { Navbar } from "./components";
 
 import "./App.scss";
-import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter,
+  Navigate,
+  Route,
+  Routes,
+  HashRouter,
+} from "react-router-dom";
 
 const App = () => {
   return (

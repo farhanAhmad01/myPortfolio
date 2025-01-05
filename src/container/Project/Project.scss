@@ -71,6 +71,23 @@
         text-align: center;
       }
     }
+    .project__item-about-content-seeLessMore-btn {
+      background: none;
+      border: none;
+      // margin-top: 10px;
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      color: #4489db;
+      font-size:20px ;
+
+      &:hover {
+        cursor: pointer;
+        color: rgb(17, 104, 138);
+      }
+    }
+
     .project__item-links {
       position: relative;
       bottom: 0;

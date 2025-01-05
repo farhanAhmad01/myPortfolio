@@ -2,7 +2,6 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://farhanAhmad01.github.io/myPortfolio",
   "dependencies": {
     "@cred/neopop-web": "^1.0.0",
     "@emailjs/browser": "^3.6.2",

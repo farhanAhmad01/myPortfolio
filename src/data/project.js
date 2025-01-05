@@ -1,7 +1,7 @@
 const project = [
   {
     key: 1,
-    img: "https://raw.githubusercontent.com/farhanAhmad01/img/main/Screenshot%20(14).png?token=GHSAT0AAAAAACT7SDHVMYPZPWOUXZDWNMOGZTYTKCQ",
+    img: "https://raw.githubusercontent.com/farhanAhmad01/img/refs/heads/main/Screenshot%20(14).png",
     name: "Doctor planet",
     description:
       "Developed a Doctor Planet app that displays appointment times for patients and shows doctor availability. It provides various patient services and lists doctors for different diseases, making it easy for users to find the appropriate healthcare provider. The app streamlines the process of scheduling appointments and accessing medical services.",
@@ -12,7 +12,7 @@ const project = [
   },
   {
     key: 1,
-    img: "https://raw.githubusercontent.com/farhanAhmad01/img/main/megamart.png?token=GHSAT0AAAAAACT7SDHVRVO3ZWUDCMIJSRK2ZTYTJXA",
+    img: "https://raw.githubusercontent.com/farhanAhmad01/img/refs/heads/main/megamart.png",
     name: "Mega Mart",
     description:
       "Developed a fully functional Ecommerce store featuring separate categories for male and female products, offering a convenient shopping experience. Implemented category segregation to streamline browsing, utilized React Router for smooth navigation, integrated React Skeleton for enhanced user experience with loading placeholders, and incorporated React Toastify for user-friendly notifications during the shopping process.",
@@ -70,7 +70,7 @@ const project = [
   },
   {
     key: 4,
-    img: "https://camo.githubusercontent.com/0be4ff335edc882c08d6f1400503fc2e21ee76712cba727a8dbede0433025547/68747470733a2f2f692e6962622e636f2f6651323933746d2f696d6167652e706e67",
+    img: "https://camo.githubusercontent.com/9954829b2c1fbdef6397bb5f8e70de49a77bfffcb4534f0dbd8907f392a07965/68747470733a2f2f692e6962622e636f2f6651323933746d2f696d6167652e706e67",
     name: "Ecommerce",
     description:
       "Developed a fully functional Ecommerce store featuring separate categories for male and female products, offering a convenient shopping experience. Implemented category segregation to streamline browsing, utilized React Router for smooth navigation, integrated React Skeleton for enhanced user experience with loading placeholders, and incorporated React Toastify for user-friendly notifications during the shopping process.",
@@ -166,7 +166,7 @@ const otherProjects = [
   {
     key: 1,
     link: "https://github.com/farhanAhmad01/Javascript-50-Projects",
-    img: "https://raw.githubusercontent.com/farhanAhmad01/portfolio/main/other%20project/3.png?token=GHSAT0AAAAAACOOV2MC7PZXGEZSWEJJV7X4ZOUW5DA",
+    img: "https://raw.githubusercontent.com/farhanAhmad01/portfolio/main/other%20project/5.png",
   },
   {
     key: 2,

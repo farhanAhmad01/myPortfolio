@@ -1,9 +1,15 @@
 import React from "react";
 import "./Project.scss";
 import projectData from "../../data/project";
+import { useState } from "react";
 
 const Project = () => {
   const { project, otherProjects } = projectData;
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  const toggleParagraph = () => {
+    setIsExpanded(!isExpanded);
+  };
 
   return (
     <>
@@ -23,7 +29,7 @@ const Project = () => {
                         <img
                           className="img-fluid"
                           src={item.img}
-                          alt="YouTube Playlist Length"
+                          alt="⏳ Loading......"
                         />
                       </div>
                       <div className="project__item-about">
@@ -31,7 +37,14 @@ const Project = () => {
                           <h3>{item.name}</h3>
                         </div>
                         <div className="project__item-about-content">
-                          <p>{item.description}</p>
+                          <p>
+                            {isExpanded
+                              ? item.description
+                              : `${item.description.substring(0, 80)}...`}
+                          </p>
+                          <button onClick={toggleParagraph} className="project__item-about-content-seeLessMore-btn">
+                            {isExpanded ? "See Less" : "See More"}
+                          </button>
 
                           {item.techStack && (
                             <>

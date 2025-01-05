@@ -15,21 +15,21 @@ const Contact = () => {
   };
   const onSubmit = (values, onSubmitProps) => {
     console.log("")
-    // onSubmitProps.setSubmitting(true);
-    // axios
-    //   .post(
-    //     "https://sheet.best/api/sheets/5e40498b-b54f-404d-a0c8-652e67d946bf",
-    //     values
-    //   )
-    //   .then((response) => {
-    //     if (response.status === 200) {
-    //       setError("false");
-    //     } else {
-    //       setError("true");
-    //     }
-    //     onSubmitProps.setSubmitting(false);
-    //   });
-    // onSubmitProps.resetForm();
+    onSubmitProps.setSubmitting(true);
+    axios
+      .post(
+        "https://api.sheetbest.com/sheets/6e62167e-bc4e-4b03-bd99-4e77232e015e",
+        values
+      )
+      .then((response) => {
+        if (response.status === 200) {
+          setError("false");
+        } else {
+          setError("true");
+        }
+        onSubmitProps.setSubmitting(false);
+      });
+    onSubmitProps.resetForm();
   };
 
   const validate = (values) => {
